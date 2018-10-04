@@ -5,4 +5,3 @@ Pry
 AwesomePrint
 RSPEC
 
-require_relative '../config/environment'
